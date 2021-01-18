@@ -8,7 +8,7 @@ function execute(user, msg) {
 
   if (msg === "S") {
     banco.db[user].stage = 3;
-    return ["Digite o endereço por favor :"];
+    return ["Digite o enail por favor :"];
   }
 
   let resumo = "  RESUMO DE SEU PEDIDO: \n";

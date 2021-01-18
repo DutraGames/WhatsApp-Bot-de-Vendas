@@ -13,7 +13,7 @@ function execute(user, msg) {
     return stages.step[5].obj.execute(user, "");
   }
   return [
-    `Confirme o enderecÇo de entrega : \n ${msg}`,
+    `Confirme o email: \n ${msg}`,
     "Digite *S* para continuar ou *N* para cancelar",
   ];
 }

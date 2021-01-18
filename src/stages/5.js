@@ -11,9 +11,9 @@ function execute(user, msg) {
   }
   if (msg === "1") {
     estagioInterno++;
-    return ["Digite o valor em dinheiro para levarmos o troco: "];
+    return ["Digite o valor que irá depositar: "];
   }
-  return ["Escolha a forma de pagamento:\n*1* - Dinheiro"];
+  return ["Escolha a forma de pagamento:\n*1* - Depósito"];
 }
 
 exports.execute = execute;

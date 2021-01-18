@@ -13,7 +13,7 @@ const cardapio = {
   },
   4: {
     descricao: "Bot de manipulação de Dados",
-    preco: 550.0,
+    preco: 120.0,
   },
   5: {
     descricao: "Bot de Organização de Arquivos",
