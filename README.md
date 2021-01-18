@@ -20,3 +20,10 @@ Após isso, você pode por mais itens ou só fechar o pedido. onde ele manda out
 Após esse procedimento, ele pode lhe pedir o endereço de email (no meu caso), quanto pedir um endereço físico, caso você tenha loja de produtos físicos!
 Para finalizar ele confirma seu endereço e manda uma mensagem de perguntando a forma de pagamento.
 E por fim agradece ao cliente pela preferência e pede para aguardar!
+
+![image](https://user-images.githubusercontent.com/69097449/104919975-d97fa900-5975-11eb-9817-61d059fc08c7.png)
+
+# Agradecimentos
+
+Agradeço a pessoal que me deu um suporte para o desenvimento e a pessoal que desenvolveu o Venom!
+Caso queiram que desenvolva um para vocês eu façp com todo prazer!!
